@@ -12,5 +12,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.1.0",
+    "jshint": "^2.11.0"
   }
 }
