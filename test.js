@@ -1,4 +1,4 @@
-var debugThrowErr = false;
+var debugThrowErr = true;
 if(debugThrowErr){
     throw new Error()
 }
